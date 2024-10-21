@@ -18,4 +18,4 @@ $ python main.py							// Run the program
 ```
 
 ## License
-MIT
+[MIT](https://github.com/nix-rs/commnetAnalyser/blob/main/LICENSE)
