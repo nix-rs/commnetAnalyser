@@ -13,8 +13,8 @@ And this is very simple project.
 $ git clone https://github.com/nix-rs/commnetAnalyser.git
 $ python3 -m venv venv 							// Create Environment
 $ source /venv/bin/activate						// Activate the Environment
-$ pip install -r requirements.txt	 			// Install the necessay packages
-$ python main.py								// Run the program
+$ pip install -r requirements.txt	 			    // Install the necessay packages
+$ python main.py							// Run the program
 ```
 
 ## License
